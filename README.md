@@ -1,4 +1,4 @@
-# Ontario-Public-Library
+# Ontario Public Library
 ## 1. Background
 In the digital age, people can access a wide range of information from their computer. As a result, the existence of public library is being questioning by many library skeptics: does the public library still matter? These circumstance leads to a strategic question for Ontario libraries: How can Ontario libraries be successful in the 21st century?
 
